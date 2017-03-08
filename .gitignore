@@ -1,0 +1,8 @@
+eltopo3d/obj/
+eltopo3d/obj_debug/
+talpa/obj/
+talpa/obj_debug/
+talpa/talpa_release
+
+eltopo3d/libeltopo_release.a
+talpa/libeltopo_release.a
